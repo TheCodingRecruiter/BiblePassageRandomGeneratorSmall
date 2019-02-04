@@ -11,7 +11,8 @@ class Bible:
         'John 10:10' : '"The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly."',
         'Isaiah 43:19' : 'See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland.',
         '2 Timothy 1:7' : 'For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.',
-        '2 Chronicles 20:15' : '''"This is what the LORD says to you: 'Do not be afraid or discouraged because of this vast army. For the battle is not yours, but God's"'''
+        '2 Chronicles 20:15' : '''"This is what the LORD says to you: 'Do not be afraid or discouraged because of this vast army. For the battle is not yours, but God's"''',
+                'Mark 10:9' : '''Therefore what God has joined together, let no one separate.”'''
     }
     
     def __init__(self):
