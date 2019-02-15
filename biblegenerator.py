@@ -20,13 +20,13 @@ class Bible:
     
     def rpass(self):
         self.script, self.passage = random.choice(list(self.passages.items()))
-        print(self.script)
-        print(self.passage)
+        return self.script, self.passage
     
 a = Bible()
 
-a.rpass()
+script, passage = a.rpass()
 
-
+print(script)
+print(passage)
 
     
